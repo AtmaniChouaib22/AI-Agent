@@ -1,4 +1,7 @@
-#AI agent
+this Ai agent small CLI app (no interface) can: 
+-generate a dad joke 
+-generate a AI generated picture to describe the given joke
+-get the funniest reddit posts from the web
 
 ## Setup Instructions
 
