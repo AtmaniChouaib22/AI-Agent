@@ -1,7 +1,9 @@
-this Ai agent small CLI app (no interface) can: 
--generate a dad joke 
--generate a AI generated picture to describe the given joke
--get the funniest reddit posts from the web
+this Ai agent small CLI app (no interface) can:
+
+- **reddit posts**: get random dad jokes from ([https://icanhazdadjoke.com/api](https://icanhazdadjoke.com/api))
+- 🧠 **Image generation**: generate a image representaion of that joke.
+- 📊 **get reddit posts**: get funny reddit posts.
+- 🔒 **got a memory**: remember the chat.
 
 ## Setup Instructions
 
@@ -15,9 +17,9 @@ npm install # or bun install
 To run the project:
 
 ```bash
-npm start
+npm start "your prompt dad joke/Ai generated image/reddit posts"
 # or
-bun run index.ts
+bun run index.ts "prompt"
 ```
 
 ## OpenAI API Key
