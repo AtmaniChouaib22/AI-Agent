@@ -1,9 +1,9 @@
 this Ai agent small CLI app (no interface) can:
 
-- **reddit posts**: get random dad jokes from ([https://icanhazdadjoke.com/api](https://icanhazdadjoke.com/api))
-- 🧠 **Image generation**: generate a image representaion of that joke.
-- 📊 **get reddit posts**: get funny reddit posts.
-- 🔒 **got a memory**: remember the chat.
+- **dad jokes**: get random dad jokes from ([https://icanhazdadjoke.com/api](https://icanhazdadjoke.com/api))
+- **Image generation**: generate a image representaion of that joke.
+- **get reddit posts**: get funny reddit posts.
+- **got a memory**: remember the chat.
 
 ## Setup Instructions
 
